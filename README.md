@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Kevin Andreejan Susanto
+- I am a college student majoring in computer science.
 - Just putting all my works here, feel free to use if u need it!
 - 📫 How to reach me shinfeinse@gmail.com
 
